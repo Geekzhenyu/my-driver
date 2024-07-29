@@ -705,7 +705,8 @@ void OLED_Test(void)
 		// 在(1, 0)打印'Y'
 		OLED_PutChar(1, 0, 'Y');
 		// 在第0列第2页打印一个字符串"Hello World!"
-		OLED_PrintString(0, 2, "Hello World!");
+		OLED_PrintString(0, 2, "Geekzhenyu");
+	    OLED_PrintString(0, 4, "Hello world!");
 	}
 }
 

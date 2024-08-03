@@ -15,3 +15,8 @@ OLED技术广泛应用于智能手机、平板电脑、电视、手表和其他�
 
 # 2. IIC通讯协议
 
+[资料1](https://blog.csdn.net/aaaaaaaa123345/article/details/124350330?ops_request_misc=%7B%22request%5Fid%22%3A%22172243366916800222827996%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=172243366916800222827996&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-124350330-null-null.142^v100^pc_search_result_base9&utm_term=OLED&spm=1018.2226.3001.4187)
+
+[SSD1306](https://blog.csdn.net/qq_39829913/article/details/104716829)
+
+[IIC原理](https://blog.csdn.net/as480133937/article/details/105366932?ops_request_misc=%7B%22request%5Fid%22%3A%22172243393416800178537993%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fall.%22%7D&request_id=172243393416800178537993&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-1-105366932-null-null.142^v100^pc_search_result_base9&utm_term=IIC&spm=1018.2226.3001.4187)

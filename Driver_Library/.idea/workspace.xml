@@ -20,15 +20,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd8c9d2e-c4df-4ce8-85d9-aa4acbfcbfa9" name="更改" comment="OLED test finished">
+    <list default="true" id="dd8c9d2e-c4df-4ce8-85d9-aa4acbfcbfa9" name="更改" comment="add Function folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d35702827fa28e8770d6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-07-29T02-36-58-0297.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-07-29T04-28-35-0670.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Driver_Library.elf-Debug-6222cc7978b7355914bd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Driver_Library.elf.dir/App/driver_oled.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Driver_Library.elf.dir/App/driver_oled.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Driver_Library.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Driver_Library.elf.dir/Core/Src/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reference/OLED/OLED.md" beforeDir="false" afterPath="$PROJECT_DIR$/reference/OLED/OLED.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cfbbaf79a1510780bbc4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-07-29T04-54-51-0655.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Driver_Library.elf-Debug-895c55e117a1a11f7247.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,8 @@
       <updated>1722220422867</updated>
       <workItem from="1722220431185" duration="186000" />
       <workItem from="1722228844023" duration="356000" />
-      <workItem from="1722692532953" duration="1000" />
+      <workItem from="1722692532953" duration="4052000" />
+      <workItem from="1722736977764" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="OLED test finished">
       <option name="closed" value="true" />
@@ -110,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722229089412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Function folder">
+      <option name="closed" value="true" />
+      <created>1722692657312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722692657312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OLED test finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="OLED test finished" />
+    <MESSAGE value="add Function folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Function folder" />
   </component>
 </project>
